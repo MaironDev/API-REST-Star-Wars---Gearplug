@@ -1,5 +1,5 @@
-# API-REST-Star-Wars_Gearplug
-Prueba Backend Dev - Gearplug  <br>
+# API-REST-Star-Wars
+ <br>
 <img src="https://i.ibb.co/Z1X97XF/code.png" alt="code" border="0">
 <h4> TECNOLOGIAS UTILIZADAS </b><br>
 Python / Django <br>
