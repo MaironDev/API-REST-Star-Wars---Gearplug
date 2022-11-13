@@ -2,8 +2,8 @@
  <br>
 <img src="https://i.ibb.co/Z1X97XF/code.png" alt="code" border="0">
 <h4> TECNOLOGIAS UTILIZADAS </b><br>
-Python / Django <br>
-
+Python / Django Rest Framework<br>
+<hr>
 <h4>Pasos Para Ejecutar</h4> <hr>
 1 - Clonar Repositorio <code> git clone https://github.com/MaironDev/API-REST-Star-Wars_Gearplug.git </code> <br>
 2 - Instalar requerimientos <code> pip install -r requirements.txt</code> <br>
